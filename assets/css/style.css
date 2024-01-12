@@ -2500,9 +2500,9 @@ hr {
 }
 
 .section.hero-started .slide .circle.img-1 {
-	top: 75px;
-	right: 40px;
-	left: auto;
+	top: 10px;
+	right:10px;
+	left: 170px;
 	width: 226px;
 	height: 226px;
 }
